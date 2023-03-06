@@ -1,0 +1,15 @@
+.character-list{
+  list-style: none;
+  font-size: 30px;
+  line-height: 20px;
+}
+
+.char-title{
+  font-size: 35px;
+}
+
+.char-list{
+  font-size: 20px;
+  display: grid;
+
+}
